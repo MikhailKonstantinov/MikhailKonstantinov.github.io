@@ -1,0 +1,39 @@
+a:link, a:visited, a:active {
+}
+
+a:hover {
+    font-style: italic;
+}
+
+p.a {
+    font-style: italic;
+}
+
+input#jelly-inv {
+    border-color: #d4d4d4;
+    background-color: #d4d4d4;
+    color: #191e2b;
+}
+
+input#jelly {
+    border-color: #2b2b2b;
+    background-color: #2b2b2b;
+    color: #e6e1d4;
+}
+
+input#darkroom {
+    border-color: #110000;
+    background-color: #110000;
+    color: #990000;
+}
+input#console {
+    border-color: #000000;
+    background-color: #000000;
+    color: #007700;
+}
+
+input#night {
+    border-color: #000022;
+    background-color: #000022;
+    color: #003399;
+}
