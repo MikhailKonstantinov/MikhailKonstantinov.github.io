@@ -1,0 +1,13 @@
+a:link, a:visited, a:active {
+    color: #cc0000;
+}
+
+body {
+    background: #110000;
+    color: #990000;
+}
+
+hr {
+    background-color: #440000;
+    border-style: none;
+}
